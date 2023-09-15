@@ -4,9 +4,14 @@ Welcome to the ChatGPT AWS Responses Repository! In this repository, you'll find
 
 ## Contents
 
+- [Questions](#questions)
 - [About ChatGPT](#about-chatgpt)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
+
+## Questions
+
+- [When is it better to send messages directly to Kinesis Firehose instead of using a Kinesis stream to pass the data to Firehose?](kinesis/firehose-streams.md)
 
 ## About ChatGPT
 
