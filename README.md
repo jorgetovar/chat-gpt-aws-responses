@@ -12,6 +12,7 @@ Welcome to the ChatGPT AWS Responses Repository! In this repository, you'll find
 ## Questions
 
 - [When is it better to send messages directly to Kinesis Firehose instead of using a Kinesis stream to pass the data to Firehose?](kinesis/firehose-streams.md)
+- [Explain ScanIndexForward?](dynamodb/scan-index-forward.md)
 
 ## About ChatGPT
 
